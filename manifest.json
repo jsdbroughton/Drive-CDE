@@ -3,9 +3,9 @@
     "description": "Building a Chrome Extension MV3",
     "version": "0.1.0",
     "manifest_version": 3,
-    "key": "************************YOUR_GOOGLE_KEY_HERE************************************************",
+    "key": "---",
     "oauth2": {
-        "client_id": "********************************YOUR_GOOGLE_CLIENT_ID_HERE********************************",
+        "client_id": "715979169191-l3qnrndma05nu58u1oufjf9josgut0p5.apps.googleusercontent.com",
         "scopes":["https://www.googleapis.com/auth/drive"]
     },
     "icons": {
